@@ -1,0 +1,34 @@
+.header {
+  padding: 20px;
+  margin: 0;
+  background: grey;
+  text-align: center;
+  color: white;
+}
+
+.bodycp {
+  margin: 0;
+  padding: 0;
+}
+
+.buttoncp {
+  padding: 28px 40px;
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5f6246a-80e7-4c14-8925-ebb074df4a9b/dn8zvw-8ff8af0d-de83-46e3-93a5-e3e693e7a864.png/v1/fill/w_1024,h_768,q_80,strp/rainbow_swirl_by_omegaville_dn8zvw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03NjgiLCJwYXRoIjoiXC9mXC9lNWY2MjQ2YS04MGU3LTRjMTQtODkyNS1lYmIwNzRkZjRhOWJcL2RuOHp2dy04ZmY4YWYwZC1kZTgzLTQ2ZTMtOTNhNS1lM2U2OTNlN2E4NjQucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2f-lbFo3UbuISNQk8p0Yp6Xj8NPkN4U7WSafAWl5KvY);
+  color: white;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-position: center;
+  vertical-align: middle;
+  margin: auto;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
+}
+
+.centercp {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
